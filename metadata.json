@@ -1,0 +1,6 @@
+{
+  "name": "肉類科學與烹調學堂",
+  "description": "第3章肉類全方位數位學習系統：結合學生檔案、互動學習字卡、即時音效模擬測驗、情境案例診斷分析與學習歷程PDF報表輸出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
